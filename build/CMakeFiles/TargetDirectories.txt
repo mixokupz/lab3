@@ -1,0 +1,3 @@
+C:/Users/Михаил/Desktop/ООП/lab3_new/build/CMakeFiles/lab3_new.dir
+C:/Users/Михаил/Desktop/ООП/lab3_new/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Михаил/Desktop/ООП/lab3_new/build/CMakeFiles/ZERO_CHECK.dir
